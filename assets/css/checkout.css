@@ -1,0 +1,14 @@
+.pps-payment-options {
+    display: grid;
+    gap: 12px;
+    max-width: 640px;
+}
+.pps-payment-option {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 16px;
+    cursor: pointer;
+}
+.pps-payment-option.is-selected {
+    border-color: #111;
+}
