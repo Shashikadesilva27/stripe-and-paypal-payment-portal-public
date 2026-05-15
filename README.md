@@ -1,4 +1,4 @@
-# WooCommerce External Payment Portal Showcase
+# WooCommerce Stripe and Paypal External Payment Portal Showcase
 
 Public-safe engineering showcase for a WooCommerce external payment portal architecture.
 
