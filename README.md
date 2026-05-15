@@ -23,7 +23,7 @@ This repository demonstrates the architecture and implementation pattern for a c
 - Production API keys or credentials
 - Real domains and endpoints
 - Proprietary UI assets
-- Original client source code
+- Original comments
 - NDA-protected workflows
 
 ## High-level flow
